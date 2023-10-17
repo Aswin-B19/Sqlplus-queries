@@ -117,7 +117,6 @@
 
 47 => UPDATE product_master SET sell_price = 1150.00 WHERE description ='1.44 Drive';
 
-48 => 
 
 
 
@@ -125,8 +124,5 @@
 
 
 
-Default Constructor --> Ctrl + Space
 
-Parametrized Constructor --> ALt + Shift + S & Press O & Enter
 
-Getter Setter --> Alt + Shift + R & Select All & Enter
